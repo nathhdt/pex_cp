@@ -1,0 +1,42 @@
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PersimmsionsEx configuration program\PersimmsionsEx configuration program\bin\Debug\PermissionsEx configuration program.exe.config
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PersimmsionsEx configuration program\PersimmsionsEx configuration program\bin\Debug\PermissionsEx configuration program.exe
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PersimmsionsEx configuration program\PersimmsionsEx configuration program\bin\Debug\PermissionsEx configuration program.pdb
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PersimmsionsEx configuration program\PersimmsionsEx configuration program\bin\Debug\PermissionsEx configuration program.xml
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PersimmsionsEx configuration program\PersimmsionsEx configuration program\obj\Debug\PermissionsEx configuration program.vbprojResolveAssemblyReference.cache
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PersimmsionsEx configuration program\PersimmsionsEx configuration program\obj\Debug\PersimmsionsEx_configuration_program.addAGroup.resources
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PersimmsionsEx configuration program\PersimmsionsEx configuration program\obj\Debug\PersimmsionsEx_configuration_program.addAPlayer.resources
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PersimmsionsEx configuration program\PersimmsionsEx configuration program\obj\Debug\PersimmsionsEx_configuration_program.editThePrefix.resources
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PersimmsionsEx configuration program\PersimmsionsEx configuration program\obj\Debug\PersimmsionsEx_configuration_program.Main.resources
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PersimmsionsEx configuration program\PersimmsionsEx configuration program\obj\Debug\PersimmsionsEx_configuration_program.Resources.resources
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PersimmsionsEx configuration program\PersimmsionsEx configuration program\obj\Debug\PermissionsEx configuration program.vbproj.GenerateResource.Cache
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PersimmsionsEx configuration program\PersimmsionsEx configuration program\obj\Debug\PermissionsEx configuration program.exe
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PersimmsionsEx configuration program\PersimmsionsEx configuration program\obj\Debug\PermissionsEx configuration program.xml
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PersimmsionsEx configuration program\PersimmsionsEx configuration program\obj\Debug\PermissionsEx configuration program.pdb
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PermissionsEx configuration program\PermissionsEx configuration program\bin\Debug\PermissionsEx configuration program.exe.config
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PermissionsEx configuration program\PermissionsEx configuration program\bin\Debug\PermissionsEx configuration program.exe
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PermissionsEx configuration program\PermissionsEx configuration program\bin\Debug\PermissionsEx configuration program.pdb
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PermissionsEx configuration program\PermissionsEx configuration program\bin\Debug\PermissionsEx configuration program.xml
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PermissionsEx configuration program.vbprojResolveAssemblyReference.cache
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PersimmsionsEx_configuration_program.addAGroup.resources
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PersimmsionsEx_configuration_program.addAPlayer.resources
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PersimmsionsEx_configuration_program.editThePrefix.resources
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PersimmsionsEx_configuration_program.Main.resources
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PersimmsionsEx_configuration_program.Resources.resources
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PermissionsEx configuration program.vbproj.GenerateResource.Cache
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PermissionsEx configuration program.exe
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PermissionsEx configuration program.xml
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PermissionsEx configuration program.pdb
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\PermissionsEx configuration program\PermissionsEx configuration program\bin\Debug\PermissionsEx configuration program.exe.config
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\PermissionsEx configuration program\PermissionsEx configuration program\bin\Debug\PermissionsEx configuration program.exe
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\PermissionsEx configuration program\PermissionsEx configuration program\bin\Debug\PermissionsEx configuration program.pdb
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\PermissionsEx configuration program\PermissionsEx configuration program\bin\Debug\PermissionsEx configuration program.xml
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PermissionsEx configuration program.vbprojResolveAssemblyReference.cache
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PersimmsionsEx_configuration_program.addAGroup.resources
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PersimmsionsEx_configuration_program.addAPlayer.resources
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PersimmsionsEx_configuration_program.editThePrefix.resources
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PersimmsionsEx_configuration_program.Main.resources
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PersimmsionsEx_configuration_program.Resources.resources
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PermissionsEx configuration program.vbproj.GenerateResource.Cache
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PermissionsEx configuration program.exe
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PermissionsEx configuration program.xml
+C:\Users\Nathan\Documents\Visual Studio 2017\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PermissionsEx configuration program.pdb
