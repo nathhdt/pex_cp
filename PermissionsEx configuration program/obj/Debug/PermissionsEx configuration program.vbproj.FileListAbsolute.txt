@@ -40,3 +40,18 @@ C:\Users\Nathan\Documents\Visual Studio 2017\Projects\PermissionsEx configuratio
 C:\Users\Nathan\Documents\Visual Studio 2017\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PermissionsEx configuration program.exe
 C:\Users\Nathan\Documents\Visual Studio 2017\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PermissionsEx configuration program.xml
 C:\Users\Nathan\Documents\Visual Studio 2017\Projects\PermissionsEx configuration program\PermissionsEx configuration program\obj\Debug\PermissionsEx configuration program.pdb
+C:\Users\natha\Documents\Visual Studio 2019\Projects\pex_cp\PermissionsEx configuration program\bin\Debug\PermissionsEx configuration program.exe.config
+C:\Users\natha\Documents\Visual Studio 2019\Projects\pex_cp\PermissionsEx configuration program\bin\Debug\PermissionsEx configuration program.exe
+C:\Users\natha\Documents\Visual Studio 2019\Projects\pex_cp\PermissionsEx configuration program\bin\Debug\PermissionsEx configuration program.pdb
+C:\Users\natha\Documents\Visual Studio 2019\Projects\pex_cp\PermissionsEx configuration program\bin\Debug\PermissionsEx configuration program.xml
+C:\Users\natha\Documents\Visual Studio 2019\Projects\pex_cp\PermissionsEx configuration program\obj\Debug\PermissionsEx configuration program.vbprojAssemblyReference.cache
+C:\Users\natha\Documents\Visual Studio 2019\Projects\pex_cp\PermissionsEx configuration program\obj\Debug\PersimmsionsEx_configuration_program.addAGroup.resources
+C:\Users\natha\Documents\Visual Studio 2019\Projects\pex_cp\PermissionsEx configuration program\obj\Debug\PersimmsionsEx_configuration_program.addAPlayer.resources
+C:\Users\natha\Documents\Visual Studio 2019\Projects\pex_cp\PermissionsEx configuration program\obj\Debug\PersimmsionsEx_configuration_program.editThePrefix.resources
+C:\Users\natha\Documents\Visual Studio 2019\Projects\pex_cp\PermissionsEx configuration program\obj\Debug\PersimmsionsEx_configuration_program.Main.resources
+C:\Users\natha\Documents\Visual Studio 2019\Projects\pex_cp\PermissionsEx configuration program\obj\Debug\PersimmsionsEx_configuration_program.Resources.resources
+C:\Users\natha\Documents\Visual Studio 2019\Projects\pex_cp\PermissionsEx configuration program\obj\Debug\PermissionsEx configuration program.vbproj.GenerateResource.cache
+C:\Users\natha\Documents\Visual Studio 2019\Projects\pex_cp\PermissionsEx configuration program\obj\Debug\PermissionsEx configuration program.vbproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\Visual Studio 2019\Projects\pex_cp\PermissionsEx configuration program\obj\Debug\PermissionsEx configuration program.exe
+C:\Users\natha\Documents\Visual Studio 2019\Projects\pex_cp\PermissionsEx configuration program\obj\Debug\PermissionsEx configuration program.xml
+C:\Users\natha\Documents\Visual Studio 2019\Projects\pex_cp\PermissionsEx configuration program\obj\Debug\PermissionsEx configuration program.pdb
